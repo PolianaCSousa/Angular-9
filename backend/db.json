@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta BIC Preta",
+      "price": 5.9
+    },
+    {
+      "name": "Celular",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Celular",
+      "price": 5000.98
+    },
+    {
+      "id": 4,
+      "name": "Fogao",
+      "price": 19223.99
+    },
+    {
+      "id": 5,
+      "name": "Mixer",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "Mixer",
+      "price": 300
+    }
+  ]
+}
